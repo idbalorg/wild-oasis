@@ -13,7 +13,7 @@ function CabinCard({ cabin }) {
           fill
           quality={80}
           alt={`Cabin ${name}`}
-          className="flex-1 border-r border-primary-800"
+          className="object-cover flex-1 border-r border-primary-800"
         />
       </div>
 
